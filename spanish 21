@@ -1,0 +1,43 @@
+public class spanish21{
+private int cards1;
+private int cards2;
+private int cards3;
+private int cards4;
+private int cards5;
+
+
+public int money(){
+
+if(dollars > 0){
+    return dollars;
+}
+}
+else{
+    return "Incorrect amount";
+}
+
+
+public int cardnum(){
+int dealercardnum1 = int(Math.random() )
+int playercardnum1 = 
+
+
+
+
+}
+
+
+
+public String cards(){
+
+
+
+
+
+}
+
+
+}
+
+
+
